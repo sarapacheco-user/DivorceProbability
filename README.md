@@ -1,2 +1,2 @@
 # DivorceProbability
-How age diferences impact the probability of divorce in Brazil
+How age differences impact the probability of divorce in Brazil (a Data Science Project)
